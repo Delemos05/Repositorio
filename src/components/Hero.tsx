@@ -43,7 +43,7 @@ const Hero = () => {
         </div>
         <div className="flex-1">
           <img
-            src="\src\img\eu.jpg"
+            src="/eu.jpg"
             alt="Marco"
             className="rounded-full w-64 h-64 lg:w-96 lg:h-96 object-cover mx-auto shadow-xl"
           />
