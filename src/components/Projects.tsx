@@ -13,7 +13,7 @@ const projects = [
   {
     title: 'Mercado 23 Horas-Araranguá',
     description: 'Aplicativo web desenvolvido com React, focado em proporcionar uma experiência única aos usuários.',
-    image: 'loja.png',
+    image: '/src/img/loja.png',
     tech: ['React', 'Firebase'],
     github: 'https://github.com/Delemos05/Mercado-23-horas-pagina-web',
     live: 'https://mercado-23-horas-pagina-web.vercel.app/'
